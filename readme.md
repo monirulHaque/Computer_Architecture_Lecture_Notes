@@ -1,8 +1,9 @@
-This repository contains all of my lecture notes of the course CSE340: Computer Architecture. </br>
+This repository contains my lecture notes of the course CSE340: Computer Architecture. </br>
 -------------------------------------------------------------------------
 **Table of Contents**
 - [Lecture 0](#lecture-0)
   - [Brief History of Computer Architectures](#brief-history-of-computer-architectures)
+  - [Why study Computer Architecture?](#why-study-computer-architecture)
 - [Lecture 1](#lecture-1)
 
 # Lecture 0
@@ -100,8 +101,13 @@ During 1970s, companies started making home computers and Apple released their f
     <em>IBM Model 5150</em>
 </p>
 
+Then the transistors kept getting smaller and the computers became faster, now almost everyone everyone had a
 
 <br/>
 
-# Lecture 1
+## Why study Computer Architecture?
+To be Added
 
+
+# Lecture 1
+To be Added
